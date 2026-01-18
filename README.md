@@ -50,15 +50,11 @@ It is designed for learning backend and DevOps concepts without installing heavy
 cd gradle-project
 gradle build
 gradle publish
-
-
-
-
+```
 
 ### Maven Project
 ```bash
 cd maven-app
 mvn package
 mvn deploy
-
-
+```
