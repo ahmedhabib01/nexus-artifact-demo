@@ -55,36 +55,10 @@ gradle publish
 
 
 
-Maven Project
+### Maven Project
+```bash
 cd maven-app
 mvn package
 mvn deploy
 
 
-Artifacts will appear in Nexus under the respective repositories.
-
-What You Will Learn
-
-How Nexus works and why it is used
-
-How to create repositories and users
-
-Publishing artifacts using Gradle and Maven
-
-Free cloud development workflow (Codespaces + Docker)
-
-Basics of DevOps and backend pipeline setup
-
-Future Improvements
-
-Add CI/CD workflow for automatic builds and uploads
-
-Add finer permissions for Nexus users
-
-Add a multi-module Gradle project
-
-Add a frontend and backend integration demo
-
-License
-
-MIT
